@@ -23,7 +23,7 @@
     "express": "^4.17.3",
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.2",
     "sequelize": "^6.17.0",
     "sequelize-typescript": "^2.1.3"
   },
