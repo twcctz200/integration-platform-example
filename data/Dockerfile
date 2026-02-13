@@ -1,4 +1,4 @@
-FROM postgres:14.2 as database
+FROM postgres:14.21 as database
 
 WORKDIR /data
 
